@@ -4,6 +4,8 @@ Datum Ipsum is a tool for generating fake strings using a set of statistical pro
 
 Datum Ipsum is designed to support execution via the map-reduce paradigm, e.g. in Hive.
 
+The JavaDocs are available on [GitHub](https://intuit.github.io/datum-ipsum/).
+
 ## Contents
 1. [Motivation](#motivation)
 2. [Concepts](#concepts)
